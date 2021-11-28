@@ -1,6 +1,8 @@
 # lets-go
 Just playing around!
 
-To run:
+#### To run:
+
 `$ go build hello.go`
+
 `$ ./hello`
